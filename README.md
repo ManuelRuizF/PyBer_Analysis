@@ -29,4 +29,5 @@ This data is related to the last one. Still, people in rural areas **tend to pay
 - The second recommendation comes from the fact that people in Urban cities tend to travel short distances. Rush hours can be really stressfull when it comes to moving. So with our data we can add an option to schedule a pick up to reduce time whenever people need to move.  
 - Last one would be that as we keep growing we can upsell other services. We have the trust of a lot of customers so adding an fintech service such as "PyBer Cards" or "Food Deliver" can help the company grow exponentially.  
 
-## Summary
+## Summary  
+After analyzing the data, we found out that more people use PyBer in Urban cities than in Suburban and Rural. And the least usage is in Rural. Now, people tend to pay more in Rural cities than in any other one. So basically we found out that the thing we want to work the most is on the short and long distances our customers travel. We want to improve the experience and fares of our customers whenever they travel these distances. So, even when our competition tries to improve the prices and take our customers, we will be a step ahead.
