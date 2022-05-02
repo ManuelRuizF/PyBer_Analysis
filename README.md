@@ -15,7 +15,7 @@ In the following Summary DataFrame we can observe that actually the gap of diffe
 The total drivers of PyBer on each city are almost directly proportional to the amount of rides as expected. Due to the size of the Urban cities were we can find big corporatives, companies and real state developments, the demand of these services is way higer than the Suburban and Rural. There are **30x times** more riders in Urban than in Rural, and almost **5x times** than Suburban. The fares are proportinal as the first two data.
 
 ### Average Fare Per Ride  
-Here we can find our first interesting data or red flag. People in rural areas (where families earn less money) **tend to pay more** in average than people in Urban or Suburban cities. This is due to the distances people travel in Uber. Inside their own rural city, they are more likable to walk to the spot. So, if they use PyBer that means they will travel **long distances**, thus will pay more money.
+Here we can find our first interesting data or red flag. People in rural areas (where families earn less money) **tend to pay more** in average than people in Urban or Suburban cities. This is due to the distances people travel in Uber. Inside their own rural city, they are more likable to walk to the spot. So, if they use PyBer that means they will travel **long distances**, thus will pay more money
 
 ### Average Fare Per Driver  
 This data is related to the last one. Still, people in rural areas **tend to pay more** in average than people in Urban or Suburban cities.
