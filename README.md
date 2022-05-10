@@ -24,7 +24,7 @@ This data is related to the last one. Still, people in rural areas **tend to pay
 --------------------  
 ![line_chart](https://github.com/ManuelRuizF/PyBer_Analysis/blob/main/resources/Pyber_Fare_Summary.png)
 
-### Business Recommendation
+### Business Recommendations
 - A big area of opportunity to attack would be to plan lowering costs in Rural cities. If a mobility startup starts to focus on rural with low prices we will **loose customers**. So the first advice would be focus on lowering costs in Rural cities.  
 - The second recommendation comes from the fact that people in Urban cities tend to travel short distances. Rush hours can be really stressfull when it comes to moving. So with our data we can add an option to schedule a pick up to reduce time whenever people need to move.  
 - Last one would be that as we keep growing we can upsell other services. We have the trust of a lot of customers so adding an fintech service such as "PyBer Cards" or "Food Deliver" can help the company grow exponentially.  
