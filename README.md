@@ -5,7 +5,7 @@ There are 3 types of cities that PyBer operates in. The CEO, V.isualize, gave me
 ### Planning new fares
 Family´s finances are different in the types of cities. As we will see in the next charts and graph, People in rural cities tend to pay **less** than the ones in the Urban. Knowing the average fares in the cities will help us define the next fares in cities Pyber will enter.  
 
-## Results
+## Result
 ### Differences in ride-sharing data among the different city types. 
 
 #### Total Rides
