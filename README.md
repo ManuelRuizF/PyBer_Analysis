@@ -1,4 +1,4 @@
-# PyBer Analysis
+# PyBer Analysi
 ## Overview of the analysis
 ### Types of cities
 There are 3 types of cities that PyBer operates in. The CEO, V.isualize, gave me and Omar the task to compare the fares and it´s average per ride and driver, among the 3 types of cities, which are Rural, Urban and Suburban. Going to know more about the differences will help in the future when me make decision on how to divide the budget when we grow the company.
