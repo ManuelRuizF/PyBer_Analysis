@@ -6,7 +6,7 @@ There are 3 types of cities that PyBer operates in. The CEO, V.isualize, gave me
 Family´s finances are different in the types of cities. As we will see in the next charts and graph, People in rural cities tend to pay **less** than the ones in the Urban. Knowing the average fares in the cities will help us define the next fares in cities Pyber will enter.  
 
 ## Results
-### Differences in ride-sharing data among the different city types.jeje 
+### Differences in ride-sharing data among the different city types. 
 
 #### Total Rides
 In the following Summary DataFrame we can observe that actually the gap of difference among the city´s types is big. During the analysis Urban cities had malmost **3x times** of rides than Suburban cities (1625 to 625), and 12x times more than Rural cities.
